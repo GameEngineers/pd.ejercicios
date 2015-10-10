@@ -19,5 +19,5 @@ public class ElementA implements Element {
     public void accept(Visitor v) {
         v.visitElementA(this);
     }
-
+    
 }
